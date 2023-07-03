@@ -1,0 +1,230 @@
+{
+       "Hotel": [
+          {
+             "HotelID": "7161",
+             "IsReady": "Yes",
+             "HotelsName": "Migny Opera Montmartre Hotel",
+             "Location": "Pigalle",
+             "LowestPrice": "105.76",
+             "Currency": "EUR",
+             "HotelRating": "3"
+          },
+          {
+             "HotelID": "7176",
+             "IsReady": "Yes",
+             "HotelsName": "Opera Cadet Hotel",
+             "Location": "Cadet",
+             "LowestPrice": "197.38",
+             "Currency": "EUR",
+             "HotelRating": "4"
+          },
+          {
+             "HotelID": "16574",
+             "IsReady": "Yes",
+             "HotelsName": "Plaza Tour Eiffel",
+             "Location": "Trocadero Station",
+             "LowestPrice": "227.37",
+             "Currency": "EUR",
+             "HotelRating": "4"
+          },
+          {
+             "HotelID": "19090",
+             "IsReady": "Yes",
+             "HotelsName": "Marena Hotel",
+             "Location": "Cadet",
+             "LowestPrice": "75.35",
+             "Currency": "EUR",
+             "HotelRating": "3"
+          },
+          {
+             "HotelID": "21853",
+             "IsReady": "Yes",
+             "HotelsName": "Pullman Paris Bercy Hotel",
+             "Location": "Cour St Emillon",
+             "LowestPrice": "155.02",
+             "Currency": "EUR",
+             "HotelRating": "4"
+          },
+          {
+             "HotelID": "22416",
+             "IsReady": "Yes",
+             "HotelsName": "Residhome Courbevoie la Defense",
+             "Location": "La Defense",
+             "LowestPrice": "62.35",
+             "Currency": "EUR",
+             "HotelRating": "4"
+          },
+          {
+             "HotelID": "34332",
+             "IsReady": "Yes",
+             "HotelsName": "Kube Hotel - NON REFUNDABLE ROOM",
+             "Location": "La Chapelle",
+             "LowestPrice": "197.89",
+             "Currency": "EUR",
+             "HotelRating": "4"
+          },
+          {
+             "HotelID": "34333",
+             "IsReady": "Yes",
+             "HotelsName": "1K Hotel - NON REFUNDABLE ROOM",
+             "Location": "Filles du Calvaire",
+             "LowestPrice": "279.07",
+             "Currency": "EUR",
+             "HotelRating": "4"
+          },
+          {
+             "HotelID": "35958",
+             "IsReady": "Yes",
+             "HotelsName": "Pullman Versailles Chateau Hotel",
+             "Location": "RER Versailles",
+             "LowestPrice": "123.36",
+             "Currency": "EUR",
+             "HotelRating": "4"
+          },
+          {
+             "HotelID": "44194",
+             "IsReady": "Yes",
+             "HotelsName": "Royal Mansart Hotel",
+             "Location": "Blanche",
+             "LowestPrice": "74.03",
+             "Currency": "EUR",
+             "HotelRating": "3"
+          },
+          {
+             "HotelID": "44508",
+             "IsReady": "Yes",
+             "HotelsName": "Sejours et Affaires Paris Vitry Hotel",
+             "Location": "Vitry-sur-Seine",
+             "LowestPrice": "43.43",
+             "Currency": "EUR",
+             "HotelRating": "2"
+          },
+          {
+             "HotelID": "46974",
+             "IsReady": "Yes",
+             "HotelsName": "Royal Mansart Hotel - NON REFUNDABLE ROOM",
+             "Location": "Blanche",
+             "LowestPrice": "66.63",
+             "Currency": "EUR",
+             "HotelRating": "3"
+          },
+          {
+             "HotelID": "49417",
+             "IsReady": "Yes",
+             "HotelsName": "Migny Opera Montmartre Hotel - NON REFUNDABLE ROOM",
+             "Location": "Pigalle",
+             "LowestPrice": "95.18",
+             "Currency": "EUR",
+             "HotelRating": "3"
+          },
+          {
+             "HotelID": "49889",
+             "IsReady": "Yes",
+             "HotelsName": "Pavillon Opera Grands Boulevards - NON REFUNDABLE ROOM",
+             "Location": "Grands Blvd",
+             "LowestPrice": "155.27",
+             "Currency": "EUR",
+             "HotelRating": "3"
+          },
+          {
+             "HotelID": "49893",
+             "IsReady": "Yes",
+             "HotelsName": "Pavillon Nation Hotel - NON REFUNDABLE ROOM",
+             "Location": "Nation",
+             "LowestPrice": "147.15",
+             "Currency": "EUR",
+             "HotelRating": "3"
+          },
+          {
+             "HotelID": "49895",
+             "IsReady": "Yes",
+             "HotelsName": "Normandy Hotel Paris - NON REFUNDABLE ROOM",
+             "Location": "Palais Royal Musee du Louvre",
+             "LowestPrice": "199.92",
+             "Currency": "EUR",
+             "HotelRating": "4"
+          },
+          {
+             "HotelID": "49898",
+             "IsReady": "Yes",
+             "HotelsName": "Pavillon Porte de Versailles Hotel - NON REFUNDABLE ROOM",
+             "Location": "Porte de Versailles",
+             "LowestPrice": "115.69",
+             "Currency": "EUR",
+             "HotelRating": "3"
+          },
+          {
+             "HotelID": "49900",
+             "IsReady": "Yes",
+             "HotelsName": "Pavillon Opera Bourse Hotel - NON REFUNDABLE ROOM",
+             "Location": "Grands Blvd",
+             "LowestPrice": "155.27",
+             "Currency": "EUR",
+             "HotelRating": "3"
+          },
+          {
+             "HotelID": "49901",
+             "IsReady": "Yes",
+             "HotelsName": "Villa Pantheon Hotel NON REFUNDABLE ROOM",
+             "Location": "Saint Michel",
+             "LowestPrice": "201.95",
+             "Currency": "EUR",
+             "HotelRating": "4"
+          },
+          {
+             "HotelID": "49909",
+             "IsReady": "Yes",
+             "HotelsName": "Villa Montparnasse Hotel - NON REFUNDABLE ROOM",
+             "Location": "Denfert-Rochereau",
+             "LowestPrice": "179.15",
+             "Currency": "EUR",
+             "HotelRating": "4"
+          },
+          {
+             "HotelID": "49928",
+             "IsReady": "Yes",
+             "HotelsName": "Villa Lutece Port Royal Hotel - NON REFUNDABLE ROOM",
+             "Location": "Gobelins",
+             "LowestPrice": "178.61",
+             "Currency": "EUR",
+             "HotelRating": "4"
+          },
+          {
+             "HotelID": "49932",
+             "IsReady": "Yes",
+             "HotelsName": "Villa Luxembourg Hotel - NON REFUNDABLE ROOM",
+             "Location": "Vavin",
+             "LowestPrice": "181.65",
+             "Currency": "EUR",
+             "HotelRating": "4"
+          },
+          {
+             "HotelID": "0017855",
+             "IsReady": "yes",
+             "HotelsName": "Hilton Jeddah",
+             "Location": "Jeddah, Saudi Arabia",
+             "LowestPrice": "35",
+             "Currency": "EUR",
+             "HotelRating": "4"
+          },
+          {
+             "HotelID": "0018799",
+             "IsReady": "no",
+             "HotelsName": "Ramada Continental Jeddah",
+             "Location": "Jeddah, Saudi Arabia",
+             "LowestPrice": "345",
+             "Currency": "USD",
+             "HotelRating": "3"
+          },
+          {
+             "HotelID": "0010888",
+             "IsReady": "yes",
+             "HotelsName": "Qasr Al Sharq",
+             "Location": "Jeddah, Saudi Arabia",
+             "LowestPrice": "3500",
+             "Currency": "SAR",
+             "HotelRating": "5"
+          }
+       ]
+    }
+ 
